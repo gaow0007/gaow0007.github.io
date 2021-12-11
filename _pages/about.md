@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at RealAI currently. I have obtained my Bachelor of Computer Science from Beihang University on 2019. I'm interested in machine learning for system and system for machine learning. I pursue to bring the real AI technology into human life. I pursue the reilable, efficient Artificial Intelligence System. This is my personal website. [Email](weigao1996@outlook.com) is a prefered way to reach me. 
+I am a second-year PhD student at Nanyang Technological University, supervised by Yonggang Wen and co-supervised by Tianwei Zhang. I am interested in machine learning system and cloud computing, espieciaally GPU cluster management and secure machine leanring. This is my personal website. [Email](gaow0007@ntu.edu.sg) is a prefered way to reach me. 
