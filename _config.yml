@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rolling in the Deep"
 title_separator          : "-"
 name                     : &name "Wei Gao"
-description              : &description "Research Intern in RealAI"
+description              : &description "PhD Student at NTU"
 url                      : https://gaow0007.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gaow0007.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://scholar.google.com/gaowei"
-  email            : "weigao1996@outlook.com"
+  email            : # "weigao1996@outlook.com"
   researchgate     :  "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
