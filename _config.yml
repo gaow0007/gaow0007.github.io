@@ -83,12 +83,12 @@ author:
   name             : "Wei Gao"
   avatar           : "gaowei.jpg"
   bio              : "Phd Student at NTU"
-  location         : "Beijing China"
+  location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://scholar.google.com/gaowei"
+  googlescholar    : "http://scholar.google.com/gaowei"
   email            : # "weigao1996@outlook.com"
-  researchgate     :  "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
