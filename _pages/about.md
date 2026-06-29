@@ -29,6 +29,7 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 
 ## News
 
+- **[2026.06]** Preprint [**Spotlight**](https://arxiv.org/abs/2606.19004) released on arXiv.
 - **[2026.05]** Preprint [**DisagFusion**](https://arxiv.org/abs/2605.25550) released on arXiv.
 - **[2026.05]** Preprint [**ROSE**](https://arxiv.org/abs/2605.06534) released on arXiv.
 - **[2026.04]** Preprint [**Crab**](https://arxiv.org/abs/2604.28138) released on arXiv.
@@ -39,6 +40,7 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 - **[2025.10]** Technical report [**ROLL Flash**](https://arxiv.org/abs/2510.11345) released on arXiv.
 - **[2025.06]** Technical report [**ROLL**](https://arxiv.org/abs/2506.06122) released on arXiv.
 - **[2025.04]** Paper **Rethinking KV Cache Compression** accepted to [MLSys 2025](https://mlsys.org/Conferences/2025).
+- **[2024.01]** Preprint [**SpecGen**](https://arxiv.org/abs/2401.08807) released on arXiv.
 
 ---
 
