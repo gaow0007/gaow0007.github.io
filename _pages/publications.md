@@ -124,22 +124,6 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ## Technical Reports
 
 <p>
-  <a href="https://arxiv.org/abs/2606.19004"><img src="https://img.shields.io/badge/arXiv-2606.19004-b31b1b?style=flat-square&logo=arxiv" alt="arXiv"/></a>
-  &nbsp;
-  Ruiqi Lai, Dakai An, <u>Wei Gao</u>, Ju Huang, Siran Yang, Jiamang Wang, Lin Qu, Dmitrii Ustiugov, Wei Wang<br/>
-  <strong>Spotlight: Synergizing Seed Exploration and Spot GPUs for DiT RL Post-Training</strong><br/>
-  <em>Technical Report, arXiv preprint, June 2026.</em>
-</p>
-
-<p>
-  <a href="https://arxiv.org/abs/2401.08807"><img src="https://img.shields.io/badge/arXiv-2401.08807-b31b1b?style=flat-square&logo=arxiv" alt="arXiv"/></a>
-  &nbsp;
-  Lezhi Ma, Shangqing Liu, Yi Li, Xiaofei Xie, Lei Bu<br/>
-  <strong>SpecGen: Automated Generation of Formal Program Specifications via Large Language Models</strong><br/>
-  <em>Technical Report, arXiv preprint, January 2024.</em>
-</p>
-
-<p>
   <a href="https://arxiv.org/abs/2506.06122"><img src="https://img.shields.io/badge/arXiv-2506.06122-b31b1b?style=flat-square&logo=arxiv" alt="arXiv"/></a>
   &nbsp;
   Weixun Wang, Shaopan Xiong, <u>Wei Gao</u>, et al.<br/>

@@ -28,11 +28,9 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 ---
 
 ## News
-
-- **[2026.06]** Preprint [**Spotlight**](https://arxiv.org/abs/2606.19004) released on arXiv.
-- **[2026.06]** Preprint [**SpecGen**](https://arxiv.org/abs/2606.17518v1) released on arXiv.
-- **[2026.05]** Preprint [**DisagFusion**](https://arxiv.org/abs/2605.25550) released on arXiv.
-- **[2026.05]** Preprint [**ROSE**](https://arxiv.org/abs/2605.06534) released on arXiv.
+- **[2026.07]** Paper [**OctoPipe**](https://arxiv.org/abs/2509.23722) accepted to [SC 2026](https://sc26.supercomputing.org/) (corresponding author).
+- **[2026.06]** Preprint [**SpecGen**](https://arxiv.org/abs/2606.17518v1) and [**Spotlight**](https://arxiv.org/abs/2606.19004) released on arXiv.
+- **[2026.05]** Preprint [**DisagFusion**](https://arxiv.org/abs/2605.25550) and [**ROSE**](https://arxiv.org/abs/2605.06534) released on arXiv.
 - **[2026.04]** Preprint [**Crab**](https://arxiv.org/abs/2604.28138) released on arXiv.
 - **[2026.04]** Paper **ResiHP** accepted to [HPDC 2026](https://www.hpdc.org/2026/) (corresponding author).
 - **[2026.03]** Two papers conditionally accepted to [OSDI 2026](https://www.usenix.org/conference/osdi26): **RollArt** and **Weave**.
