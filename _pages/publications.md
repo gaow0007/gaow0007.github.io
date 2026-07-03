@@ -44,6 +44,14 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ## LLM Training: Fault Tolerance & Scheduling
 
 <p>
+  <a href="https://arxiv.org/abs/2509.23722"><img src="https://img.shields.io/badge/CCF--A-SC'26-1e3a8a?style=flat-square" alt="SC 26"/></a>
+  &nbsp;
+  Jihu Guo*, Tenghui Ma*, <u>Wei Gao</u>†, Peng Sun, Xun Chen, Jiaxing Li, Zhisheng Ye, Yuyang Jin, Dahua Lin<br/>
+  <strong>OctoPipe: Reducing Pipeline Bubbles for Heterogeneous Models via Co-Optimizing Partitioning, Placement, and Scheduling</strong><br/>
+  <em>ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), November 2026.</em>
+</p>
+
+<p>
   <a href="https://www.hpdc.org/2026/"><img src="https://img.shields.io/badge/CCF--A-HPDC'26-1a6b3a?style=flat-square" alt="HPDC 26"/></a>
   &nbsp;
   Tenghui Ma, Jihu Guo, <u>Wei Gao</u>†, Sitian Lu, Zhisheng Ye, Hanjing Wang, Dahua Lin<br/>
