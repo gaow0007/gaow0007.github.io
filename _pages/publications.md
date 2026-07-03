@@ -54,7 +54,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <p>
   <a href="https://www.hpdc.org/2026/"><img src="https://img.shields.io/badge/CCF--A-HPDC'26-1a6b3a?style=flat-square" alt="HPDC 26"/></a>
   &nbsp;
-  Tenghui Ma, Jihu Guo, <u>Wei Gao</u>†, Sitian Lu, Zhisheng Ye, Hanjing Wang, Dahua Lin<br/>
+  Tenghui Ma*, Jihu Guo*, <u>Wei Gao</u>†, Sitian Lu, Zhisheng Ye, Hanjing Wang, Dahua Lin<br/>
   <strong>ResiHP: Taming LLM Training Failures with Dynamic Hybrid Parallelism</strong><br/>
   <em>ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), July 2026.</em>
 </p>

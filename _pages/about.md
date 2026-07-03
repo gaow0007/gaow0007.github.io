@@ -48,7 +48,7 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 
 **[RollPacker]** Wei Gao\*, Yuheng Zhao\* et al., "RollPacker: Taming Long-Tail Rollouts for RL Post-Training with Tail Batching", **NSDI 2026**. \[CCF-A\]
 
-**[ResiHP]** Tenghui Ma, Jihu Guo, Wei Gao† et al., "ResiHP: Taming LLM Training Failures with Dynamic Hybrid Parallelism", **HPDC 2026**. \[CCF-A\]
+**[ResiHP]** Tenghui Ma*, Jihu Guo*, Wei Gao† et al., "ResiHP: Taming LLM Training Failures with Dynamic Hybrid Parallelism", **HPDC 2026**. \[CCF-A\]
 
 **[KV Cache]** Wei Gao\*, Xinyu Zhou\* et al., "Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving", **MLSys 2025**.
 
