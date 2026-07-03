@@ -170,7 +170,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <p>
   <a href="https://ieeexplore.ieee.org/document/9833567"><img src="https://img.shields.io/badge/CCF--A-IEEE%20TPAMI'23-0057a8?style=flat-square" alt="TPAMI 23"/></a>
   &nbsp;
-  <u>Wei Gao</u>, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, Han Qiu, Yonggang Wen, Yang Liu<br/>
+  <u>Wei Gao</u>*, Xu Zhang*, Shangwei Guo, Tianwei Zhang, Tao Xiang, Han Qiu, Yonggang Wen, Yang Liu<br/>
   <strong>Automatic Transformation Search Against Deep Leakage from Gradients</strong><br/>
   <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol. 45, No. 9, September 2023.</em>
 </p>
