@@ -50,8 +50,8 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 
 **[ResiHP]** Tenghui Ma*, Jihu Guo*, Wei Gao† et al., "ResiHP: Taming LLM Training Failures with Dynamic Hybrid Parallelism", **HPDC 2026**. \[CCF-A\]
 
-**[KV Cache]** Wei Gao\*, Xinyu Zhou\* et al., "Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving", **MLSys 2025**.
+**[OctoPipe]** Jihu Guo*, Tenghui Ma*, Wei Gao† et al., "OctoPipe: Reducing Pipeline Bubbles for Heterogeneous Models via Co-Optimizing Partitioning, Placement, and Scheduling", **SC 2026**. \[CCF-A\]
 
-**[IceFrog]** Wei Gao et al., "IceFrog: A Layer-Elastic Scheduling System for Deep Learning Training in GPU Clusters", **IEEE TPDS 2025**. \[CCF-A\]
+**[KV Cache]** Wei Gao\*, Xinyu Zhou\* et al., "Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving", **MLSys 2025**.
 
 <small>(\* Equal contribution &nbsp;/&nbsp; † Corresponding author) &nbsp; See full list on the [Publications](/publications/) page.</small>
