@@ -29,6 +29,7 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 
 ## News
 - **[2026.07]** Paper [**OctoPipe**](https://arxiv.org/abs/2509.23722) accepted to [SC 2026](https://sc26.supercomputing.org/) (corresponding author).
+- **[2026.07]** Received the [RTH-ITF](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/research-talent-hub-for-itf-projects-rth-itf-/index.html) grant.
 - **[2026.06]** Preprint [**SpecGen**](https://arxiv.org/abs/2606.17518v1) and [**Spotlight**](https://arxiv.org/abs/2606.19004) released on arXiv.
 - **[2026.05]** Preprint [**DisagFusion**](https://arxiv.org/abs/2605.25550) and [**ROSE**](https://arxiv.org/abs/2605.06534) released on arXiv.
 - **[2026.04]** Preprint [**Crab**](https://arxiv.org/abs/2604.28138) released on arXiv.
@@ -37,7 +38,6 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 - **[2025.12]** Paper **RollPacker** accepted to [NSDI 2026](https://www.usenix.org/conference/nsdi26).
 - **[2025.12]** Technical report [**ROME**](https://arxiv.org/abs/2512.24873) released on arXiv.
 - **[2025.10]** Technical report [**ROLL Flash**](https://arxiv.org/abs/2510.11345) released on arXiv.
-- **[2025.07]** Received the [RTH-ITF](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/research-talent-hub-for-itf-projects-rth-itf-/index.html) grant.
 - **[2025.06]** Technical report [**ROLL**](https://arxiv.org/abs/2506.06122) released on arXiv.
 - **[2025.04]** Paper **Rethinking KV Cache Compression** accepted to [MLSys 2025](https://mlsys.org/Conferences/2025).
 
