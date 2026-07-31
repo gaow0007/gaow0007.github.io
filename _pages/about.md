@@ -37,6 +37,7 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 - **[2025.12]** Paper **RollPacker** accepted to [NSDI 2026](https://www.usenix.org/conference/nsdi26).
 - **[2025.12]** Technical report [**ROME**](https://arxiv.org/abs/2512.24873) released on arXiv.
 - **[2025.10]** Technical report [**ROLL Flash**](https://arxiv.org/abs/2510.11345) released on arXiv.
+- **[2025.07]** Received the [RTH-ITF](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/research-talent-hub-for-itf-projects-rth-itf-/index.html) grant.
 - **[2025.06]** Technical report [**ROLL**](https://arxiv.org/abs/2506.06122) released on arXiv.
 - **[2025.04]** Paper **Rethinking KV Cache Compression** accepted to [MLSys 2025](https://mlsys.org/Conferences/2025).
 
