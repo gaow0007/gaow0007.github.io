@@ -28,6 +28,7 @@ I am a core contributor to [**ROLL**](https://github.com/alibaba/ROLL), an open-
 ---
 
 ## News
+- **[2026.10]** [**SpecGen**](https://arxiv.org/abs/2606.17518v1) accepted to [PPoPP 2027](https://conf.researchr.org/home/PPoPP-2027) (corresponding author).
 - **[2026.07]** Received the [RTH-ITF](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/research-talent-hub-for-itf-projects-rth-itf-/index.html) grant.
 - **[2026.07]** Paper [**OctoPipe**](https://arxiv.org/abs/2509.23722) accepted to [SC 2026](https://sc26.supercomputing.org/) (corresponding author).
 - **[2026.06]** Preprint [**SpecGen**](https://arxiv.org/abs/2606.17518v1) and [**Spotlight**](https://arxiv.org/abs/2606.19004) released on arXiv.
